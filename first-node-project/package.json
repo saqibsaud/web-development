@@ -1,0 +1,23 @@
+{
+  "name": "first-node-project",
+  "version": "1.0.0",
+  "description": "This is my first node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saqibsaud/first-node-project.git"
+  },
+  "author": "Saqib Saud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saqibsaud/first-node-project/issues"
+  },
+  "homepage": "https://github.com/saqibsaud/first-node-project#readme",
+  "dependencies": {
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.0.0"
+  }
+}

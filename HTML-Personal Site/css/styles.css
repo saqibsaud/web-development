@@ -1,0 +1,14 @@
+body{
+      background-color: #d3d3d3;
+  }
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 10%;
+  }
+
+h1,h3 {
+  color: cadetblue;
+}
